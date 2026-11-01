@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 End-to-End ML Predictive Pipeline & REST API Services
 
 Proyek portofolio *Machine Learning* dan *MLOps* end-to-end yang mengintegrasikan pemodelan prediktif berbasis **XGBoost**, REST API berperforma tinggi dengan **FastAPI**, serta *containerization* menggunakan **Docker**.
@@ -19,3 +20,6 @@ Proyek portofolio *Machine Learning* dan *MLOps* end-to-end yang mengintegrasika
    ```bash
    git clone [https://github.com/USERNAME_KAMU/nama-repo.git](https://github.com/USERNAME_KAMU/nama-repo.git)
    cd nama-repo
+=======
+# xgb-model-predictive-pipeline
+>>>>>>> be274c47bcfafbbe174763840edba106463cee95
